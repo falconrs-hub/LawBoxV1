@@ -11,9 +11,6 @@ from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from TRT4_JSON import *
 
 
-st.set_page_config(page_title="LawBox", page_icon=(
-    'logo.jpg'), layout='wide', initial_sidebar_state='expanded')
-
 # INICIALIZANDO ===
 
 
